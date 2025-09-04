@@ -59,7 +59,7 @@ Cashier-bot has been fired by President Guyder for asking for money. Cashier-bot
 
 The total bill is `$148.45`. The table is tipping `20%`. The sales tax is `10%`. 
 
-How much does each person at the table have to pay?
+How much does each person at the table have to pay off the **subtotal of the original bill**?
 
 A couple of hints: 
 - Make sure to save each number to their own variable first
