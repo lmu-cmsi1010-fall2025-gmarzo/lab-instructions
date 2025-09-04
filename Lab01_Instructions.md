@@ -27,7 +27,7 @@ In Python, we can assign a value to a variable like this:
 
 ```python
 num_of_burgers = 5
-my_name = "Jason Douglas"
+my_name = "Garrett Marzo"
 are_you_hungry = True
 ```
 
@@ -64,6 +64,6 @@ How much does each person at the table have to pay?
 A couple of hints: 
 - Make sure to save each number to their own variable first
 - Check out the slides for the right mathmatical syntax
-- Try so solve the math out by hand first
+- Try to solve the math out by hand first
 - Save the final result to it's own variable
 
